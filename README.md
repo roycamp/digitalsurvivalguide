@@ -1,2 +1,3 @@
-# digitalsurvivalguide
-Resources from digitalsurvivalguide.net
+# Digital Survival Guide
+
+Advanced resources from [Digital Survival Guide](https://digitalsurvivalguide.net)
